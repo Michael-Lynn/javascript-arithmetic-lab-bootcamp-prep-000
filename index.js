@@ -1,1 +1,1 @@
-parseInt('nonsense!', 10);
+var =add(1,2);
